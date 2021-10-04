@@ -1,5 +1,5 @@
 ## Olá, sou Rafael Perrechil!
-- Hoje trabalho com Desenvolvimento em PHP, MySQL, HTML5, CSS3, Javascript, Flutter
+- Hoje trabalho com Desenvolvimento em PHP, MySQL, HTML5, CSS3, Javascript, jQuery, Ajax, Flutter, API Rest
 - Atualmente estou estudando novas tecnologias: React JS/Native, Typescript, Node.js, SASS, Docker, MongoDB
 <div style="display: inline_block">
   <a href="https://www.instagram.com/rafaelperrechil/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
