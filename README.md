@@ -1,7 +1,7 @@
 ## Olá, sou Rafael Perrechil!
-- Iniciei minha jornada em desenvolvimento de sites aos 12 anos, fuçando, errando, acertando e descobrindo esse universo gigante em meados de 1999
-- Hoje trabalho com Desenvolvimento em PHP, MySQL, HTML5, CSS3, Javascript, jQuery, Ajax, Flutter, API Rest
-- Atualmente estou estudando novas tecnologias: React JS/Native, Typescript, Node.js, SASS, Docker, MongoDB
+- Iniciei minha jornada em desenvolvimento de sites aos 12 anos. Fuçando, errando, acertando e descobrindo esse universo gigante em meados de 1999.
+- Hoje trabalho com Desenvolvimento em PHP, MySQL, HTML5, CSS3, Javascript, jQuery, Ajax, Flutter, API Rest.
+- Atualmente estou estudando novas tecnologias: React JS/Native, Typescript, Node.js, SASS, Docker, MongoDB.
 <div style="display: inline_block">
   <a href="https://www.instagram.com/rafaelperrechil/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rafael-perrechil-190933151/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
