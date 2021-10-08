@@ -1,4 +1,5 @@
 ## Olá, sou Rafael Perrechil!
+- Iniciei minha jornada em desenvolvimento de sites aos 12 anos, fuçando, errando, acertando e descobrindo esse universo gigante em meados de 1999
 - Hoje trabalho com Desenvolvimento em PHP, MySQL, HTML5, CSS3, Javascript, jQuery, Ajax, Flutter, API Rest
 - Atualmente estou estudando novas tecnologias: React JS/Native, Typescript, Node.js, SASS, Docker, MongoDB
 <div style="display: inline_block">
