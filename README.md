@@ -24,7 +24,7 @@
 
 <br>
 <div style="display: inline_block; font-size:12px;">
-  <a href="https://github.com/rafaelperrechil" style="display: flex; flex-direction: row;">
+  <a href="#" style="display: flex; flex-direction: row;">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelperrechil&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelperrechil&layout=compact&langs_count=7&theme=dark"/>
   </a>
