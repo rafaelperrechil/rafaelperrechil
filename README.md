@@ -28,9 +28,3 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelperrechil)
 ![rafaelperrechil's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelperrechil&count_private=true)
 </div> 
-                                 
-<br>
-<div> 
-
-  ![Snake animation](https://github.com/rafaelperrechil/rafaelperrechil/blob/output/github-contribution-grid-snake.svg)
-</div>
